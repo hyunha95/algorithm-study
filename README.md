@@ -7,9 +7,9 @@
 
 ## 파일명
 1. 맞은 문제   
-&nbsp;&nbsp;문제번호_문제명
+&nbsp;&nbsp;P문제번호_문제명
 2. 틀린 문제   
-&nbsp;&nbsp;문제번호_문제명_yyMMdd  
+&nbsp;&nbsp;P문제번호_문제명_yyMMdd  
 
 ### 230630
 백준:     
