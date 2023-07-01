@@ -94,4 +94,18 @@ a = [1, 2, 3]
 print(a.pop(1)) # 2
 print(a) # [1, 3]
 ```
--> remove는 값으로 요소 삭제. del은 인덱스로 요소를 삭제
+-> remove는 값으로 요소 삭제. del과 pop은 인덱스로 요소를 삭제
+
+### - extend vs append 
+- extend(x)에서 x에는 리스트만 올 수 있으며 원래의 a 리스트에 x 리스트를 더하게 된다.
+```python
+# extend
+a = [1, 2, 3]
+a.extend([4, 5])
+print(a) # [1, 2, 3, 4, 5]
+
+# append
+a = [1, 2, 3]
+a.append([4, 5])
+print(a) # [1, 2, 3, [4, 5]]
+```
