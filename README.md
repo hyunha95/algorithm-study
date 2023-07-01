@@ -71,5 +71,17 @@ https://hleecaster.com/python-round/#:~:text=%EA%B7%B8%EB%9F%AC%EB%82%98%20%ED%8
 ```python
 a = ",".join('abcd')
 print(a) # 'a,b,c,d'
-
 ```
+
+### - remove vs del
+- remove 함수는 매개인자로 전달된 값으로 리스트의 요소를 삭제한다.
+```python
+a = [1, 2, 3]
+a.remove(2) # a = [1, 3]
+```
+- del a[x]는 x번째 요소값을 삭제한다. del 함수는 파이썬이 자체적으로 가지고 있는 삭제 함수이며 다음과 같이 사용한다.
+```python
+a = [1, 2, 3]
+del a[1] # a = [1, 3]
+```
+-> remove는 값으로 요소 삭제. del은 인덱스로 요소를 삭제
