@@ -101,7 +101,7 @@ print(a) # [1, 3]
 ```python
 # extend
 a = [1, 2, 3]
-a.extend([4, 5])
+a.extend([4, 5]) # a.extend([4, 5])는 a += [4, 5]와 동일하다.
 print(a) # [1, 2, 3, 4, 5]
 
 # append
