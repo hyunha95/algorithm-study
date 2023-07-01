@@ -29,7 +29,7 @@
 7. 에라토스테네스의 체(2960)
 
 ## 파이썬 문법
-### 1. 파이썬에서 사사오입으로 반올림 처리하기
+### - 파이썬에서 사사오입으로 반올림 처리하기
 - 파이썬에서 반올림 함수 round를 사용하면 아래와 같은 결과를 확인할 수 있다.
 ```
 print(round(0.5))   # 0 ?
@@ -63,6 +63,13 @@ print(round(decimal.Decimal('2.5'), 0)) # 3
 ```
 https://hleecaster.com/python-round/#:~:text=%EA%B7%B8%EB%9F%AC%EB%82%98%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C%EB%8A%94%20%E2%80%9C%EC%98%A4%EC%82%AC%EC%98%A4%EC%9E%85,%EC%98%AC%EB%A6%BC%2C%20%EC%A7%9D%EC%88%98%EC%9D%B8%20%EA%B2%BD%EC%9A%B0%20%EB%82%B4%EB%A6%B0%EB%8B%A4.
 
-### 2. find() vs index()
+### - find() vs index()
 - find 함수는 문자열 중 문자가 처음으로 나온 위치를 반환한다. 만약 찾는 문자나 문자열이 존재하지 않는다면 -1을 반환한다.
 - index 함수는 문자열 중 문자가 처음으로 나온 위치를 반환한다. 만약 찾는 문자나 문자열이 존재하지 않는다면 오류가 발생한다.
+
+### - join
+```python
+a = ",".join('abcd')
+print(a) # 'a,b,c,d'
+
+```
