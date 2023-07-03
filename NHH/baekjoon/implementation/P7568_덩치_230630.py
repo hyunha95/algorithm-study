@@ -12,9 +12,3 @@ for i in range(0, N):
         if arr[i][0] < arr[j][0] and arr[i][1] < arr[j][1]:
             rank += 1
     print(rank, end=' ')
-
-
-
-
-
-
