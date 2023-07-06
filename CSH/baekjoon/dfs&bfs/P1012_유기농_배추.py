@@ -1,7 +1,7 @@
 # 이코테 음료수 얼려 먹기랑 거의 똑같은 문제
 
 import sys
-sys.setrecursionlimit(10**6) # 이 함수를 사용하면, Python이 정한 최대 재귀 갚이를 변경할 수 있다.
+sys.setrecursionlimit(10**6) # 이 함수를 사용하면, Python이 정한 최대 재귀 깊이를 변경할 수 있다.
 T = int(sys.stdin.readline().rstrip())
 
 def dfs(x, y):
