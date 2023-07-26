@@ -9,7 +9,7 @@ expected_arr.sort()
 
 answer = 0
 for i in range(N):
-    if expected_arr != i + 1:
+    if expected_arr[i] != i + 1:
         answer += abs(expected_arr[i] - (i + 1))
 
 print(answer)
