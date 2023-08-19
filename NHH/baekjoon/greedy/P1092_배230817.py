@@ -1,30 +1,22 @@
-from collections import deque
-
 N = int(input())
-cranes = deque(sorted(list(map(int, input().split())), reverse=True))
-
+cranes = list(map(int, input().split()))
 M = int(input())
-boxes = sorted(list(map(int, input().split())))
+boxes = list(map(int, input().split()))
 
-if max(cranes) < max(boxes):
+cranes.sort(reverse=True)
+boxes.sort(reverse=True)
+
+if cranes[0] < boxes[0]:
     print(-1)
 else:
-
-    count = 0
-    minutes = 1
-    while len(boxes) > 0:
-        count += 1
-        crane = cranes.popleft()
-        cranes.append(crane)
-
-        box = boxes.pop()
-
-        if crane < box:
-            while True:
-                crane = cranes.popleft()
-                cranes.append(crane)
+    minute = 0
+    while boxes:
+        minute += 1
+        for crane in cranes:
+            if boxes and crane < boxes[-1]:
+                continue
+            for box in boxes:
                 if crane >= box:
-                    minutes += 1
+                    boxes.remove(box)
                     break
-
-    print(minutes + (count // N))
+    print(minute)
