@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f41ead23-f3ab-48c5-a690-f49a757cf224" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../binary_search/P2805_나무자르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/11725_트리의_부모_찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P1012_유기농_배추.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P11724_연결_요소의_개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P1260_DFS와_BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P1697_숨바꼭질_230712.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P1926_그림.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P2178_미로_탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P2178_미로_탐색_230705.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P24444_알고리즘_수업_너비우선탐색1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P24479_알고리즘_수업_깊이우선탐색1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P2606_바이러스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P2644_촌수계산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P2667_단지번호붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P4963_섬의_개수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dfs&amp;bfs/P9372_상근이의_여행.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1049_기타줄.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1092_배.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P11497_통나무_건너뛰기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P11501_주식.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1213_팰린드롬_만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1213_팰린드롬_만들기_230720.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P12904_A와_B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P13164_행복_유치원.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1339_단어_수학.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1343_폴리오미노.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1417_국회의원_선거_230728.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1439_뒤집기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P14916_거스름돈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P15903_카드_합체_놀이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P15904_UCPC는_무엇의_약자일까.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P16435_스네이크버드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P16953_AtoB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1715_카드_정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P18310_안테나.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P1946_신입사원.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P2012_등수_매기기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P2212_센서.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P2839_설탕_배달_230713.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greedy/P2847_게임을_만든_동준이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P10773_제로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P11866_요세푸스_문제_0_230630.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P1193_분수찾기_230630.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P1475_방_번호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P17413_단어_뒤집기_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P17478_재귀함수가_뭔가요.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P1748_수_이어_쓰기_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P1966_프린터_큐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P2108_통계학.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P2161_카드1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P2167_2차원_배열의_합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P2563_색종이_20230701.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P2960_에라토스테네스의_체.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simulation/P7568_덩치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort/P10816_숫자_카드_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort/P1920_수_찾기_230706.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort/P1931_회의실_배정.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string/P1427_소트인사이드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string/P1541_잃어버린_괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string/P1764_듣보잡.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string/P9012_괄호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programmers/P개인정보_수집_유효기간.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2VMzhT4saAY63mbkbibhbNmbaIW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/study/algorithm-study/CSH/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f41ead23-f3ab-48c5-a690-f49a757cf224" name="Changes" comment="" />
+      <created>1694660855560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694660855560</updated>
+      <workItem from="1694660856571" duration="371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
