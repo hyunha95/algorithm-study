@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 동전0_11047 {
+public class P11047_동전0 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
