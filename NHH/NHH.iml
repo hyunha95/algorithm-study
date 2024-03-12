@@ -3,13 +3,12 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/NHH/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/NHH_java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="28e7640c-f5d2-461a-90f0-7927a7261d9c" />
+    <option name="uniqueId" value="b385cf0e-9a08-4519-9f7f-f40fabd97616" />
   </component>
 </module>

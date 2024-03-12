@@ -9,6 +9,8 @@ public class P1543_문서검색 {
         String words = sc.nextLine();
         String findWord = sc.nextLine();
 
+        words = words.replaceAll(findWord, "*");
+
         int answer = 0;
         while (true) {
             int index = words.indexOf(findWord);
@@ -21,5 +23,7 @@ public class P1543_문서검색 {
         }
 
         System.out.println(answer);
+
+
     }
 }
