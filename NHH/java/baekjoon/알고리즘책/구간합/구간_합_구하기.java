@@ -1,9 +1,8 @@
-package baekjoon;
+package baekjoon.알고리즘책.구간합;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class 구간_합_구하기 {
